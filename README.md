@@ -2,4 +2,4 @@
 simple chatroom dependon on tcp
 
 
-just test
+just test for fun
